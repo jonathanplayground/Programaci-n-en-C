@@ -1,0 +1,1 @@
+intf("Digitar sueldo empleado: 

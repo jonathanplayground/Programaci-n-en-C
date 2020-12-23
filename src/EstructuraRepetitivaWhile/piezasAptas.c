@@ -17,10 +17,12 @@ int main()
 {   
     printf("Digitar el numero de piezas a ingresar \n");
     scanf("%i", &piezas);
+    printf("\n El valor de la pieza apta sera entre 1.2m -  1.3m");
 
     while(n < piezas)
     {
         printf("\n Digitar el largo de la pieza: ");
+        
         scanf("%f", &largo);
         if(largo<1.3 && largo >1.2)
         {
