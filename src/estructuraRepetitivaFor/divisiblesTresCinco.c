@@ -10,8 +10,10 @@ int num;
 int i;
 int divTres, divCinco, divNo = 0;
 
+
 int main()
 {
+    printf("Se analizaran 10 valores \n");
     for (i = 0; i<10; i++)
     {
 
