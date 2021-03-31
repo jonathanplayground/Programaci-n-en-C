@@ -1,1 +1,1 @@
-intf("Digitar sueldo empleado: 
+printf("\n Numeros pares: %i \n", par);
